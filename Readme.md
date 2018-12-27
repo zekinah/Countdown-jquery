@@ -1,8 +1,8 @@
 #New Year Countdown
 
-##Javacript manipulation.
+##Javacript manipulation
 
-The picture are not mine. Credits to the owner.
+The picture are not mine. Credits to the owner
 
 ## Authors
 
