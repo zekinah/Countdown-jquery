@@ -1,0 +1,17 @@
+
+body {
+      background: url(img/stars.gif) no-repeat center center fixed;
+      background-size: cover;
+}
+
+.countdown {
+      text-align: center;
+      font-family: fantasy;
+      font-size: 125px;
+      color: #fff;
+}
+
+.countDONE {
+      background: url(img/newyear.gif) no-repeat center center fixed;
+      background-size: cover;
+}
