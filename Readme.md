@@ -1,6 +1,8 @@
-#New Year Countdown
+# New Year Countdown
 
-##Javacript manipulation
+HAPPY NEW YEAR
+
+## Javacript manipulation
 
 The picture are not mine. Credits to the owner
 
@@ -11,7 +13,3 @@ The picture are not mine. Credits to the owner
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* HAPPY NEW YEAR
